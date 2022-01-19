@@ -1,0 +1,30 @@
+*{
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.semantic{
+    text-align: center;
+    color: dodgerblue;
+    font-size: 30px;
+}
+.semantic-tag-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    border: 2px solid red;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+ul li{
+list-style-type: none;
+}
+
+.tag-section{
+    border: 2px solid red;
+    padding: 20px 40px;
+}
+.tag-section li{
+    margin-bottom: 10px;
+}
